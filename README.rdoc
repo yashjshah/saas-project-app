@@ -1,28 +1,5 @@
-== README
+Project Management app is a SaaS (Software as a Service) app developed using Ruby on Rails. Multi tenency is used for the organizations and their users. Organization can sign up on the app and invite their employees to join. Once a project is created, the admin can add new users to his project team. Additionally, artifact can be added to the project with the option to upload files for reference. There are two plans:
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+- Free plan: upload unlimited projects, limited to 1 project at a time, Access anywhere, price: free
+- Premium plan: upload unlimited project, unlimited projects at any time, Access anywhere, price: $10 
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
