@@ -1,4 +1,4 @@
-Project Management app is a SaaS (Software as a Service) app developed using Ruby on Rails. Multi tenency is used for the organizations and their users. Organization can sign up on the app and invite their employees to join. Once a project is created, the admin can add new users to his project team. Additionally, artifact can be added to the project with the option to upload files for reference. There are two plans:
+Project Management app is a SaaS (Software as a Service) app developed using Ruby on Rails. Multi tenency is used for the organizations and their users. Organization can sign up on the app and invite their employees to join. Once a project is created, the admin can add new users to his project team. Additionally, artifacts can be added to the project with the option to upload files for reference. There are two plans:
 
 - Free plan: upload unlimited projects, limited to 1 project at a time, Access anywhere, price: free
 - Premium plan: upload unlimited project, unlimited projects at any time, Access anywhere, price: $10 
